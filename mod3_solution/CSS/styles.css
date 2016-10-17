@@ -9,6 +9,13 @@ h1 {
 	margin-bottom:50px;
 }
 
+p {
+	font-size:1.4em;
+	font-weight:bold;
+	margin-bottom:10px;
+	text-shadow:1px 1px 1px white;
+}
+
 .section {
 	position:relative;
 	border:1px solid black;
