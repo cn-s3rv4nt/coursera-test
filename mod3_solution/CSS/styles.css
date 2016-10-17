@@ -1,0 +1,83 @@
+body {
+	font-size:16px;
+	background-color:#ded263;
+}
+
+
+h1 {
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.section {
+	position:relative;
+	border:1px solid black;
+	width:auto;
+	height:auto;
+	background-color:#d3d3d3;
+	margin-left:20px;
+	margin-right:20px;
+	margin-bottom:40px;
+	color:black;
+	padding:20px;
+	padding-top:40px;
+
+} 
+
+#header-nav {
+	background-color:#CEA94A;
+	border-radius:0;
+	border: 0;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+}
+
+.navbar-brand {
+	padding-top:15px;
+	margin-left:0;
+}
+
+
+/**Food,LLC**/
+.navbar-brand a {
+	text-align:left;
+	font-family: Open Sans, Pacifico, Oswald;
+	color:#F4EEDD;
+	font-size: 1.5em;
+	font-weight:0.5;
+	text-shadow:1px 1px 1px #111;
+	margin-top:0;
+	margin-bottom:0;
+	line-height: .75;
+	text-decoration:none;
+}
+
+#nav-list {
+	margin-top: 10px;
+	background-color:#A27F30;
+}
+
+#nav-list a {
+	color:#E9E9E8;
+
+	text-align:center;
+}
+
+#nav-list a:hover {
+	color:#080807;
+	background-color:#F6F6D4;
+}
+
+#nav-list a span {
+  font-size: 1.2em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
